@@ -45,4 +45,3 @@ Write a binary tree program methods to traverse it in preorder, inorder, and pos
 2. Submit Github Repo
 
 Good Luck!
-# pop-quiz-backend-s-v4
