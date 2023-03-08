@@ -7,7 +7,7 @@
 
 ### Coding Challenge
 
-## Question 1
+#### Question 1
 
 A community has a system that consists of a dashboard displaying residents full biography data. The data is populated through an API which fetches information from the community database. Create the API to meet the following requirements:
 
@@ -17,7 +17,7 @@ A community has a system that consists of a dashboard displaying residents full 
 4. Only authorized residents can login the community system
 5. The system should handle error properly and prevent data leak
 
-## Question 2 
+#### Question 2 
 
 ### Data structures
 
