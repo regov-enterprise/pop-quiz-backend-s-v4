@@ -9,12 +9,12 @@
 
 #### Question 1
 
-A small community has a system that displays residents full biography data and connections. The data is populated through an API that fetches information from the database, refines it, and then provide access to various consumers. Create an API for this system to meet the following requirements:
+A small community has an existing system that displays full biography data, family relation links and neighbourhood links of its residents. The data is populated through an API that fetches information from a secured database. Only authorized systems and users can access or consume the API. Create an microservice API for this system to meet the following requirements:
 
 1. A user is able to select any fields combination from the user biography data
 2. The selection creates a combination that fetches relatives and family data from the community database
 3. Another API should populate the result on a new sub dashboard
-4. Only authorized residents can login the community system and view their record
+4. Only authorized residents or authorities can login the community system and view their record
 5. The system should handle error properly and prevent data leakages
 
 #### Question 2 
